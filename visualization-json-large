@@ -7,7 +7,7 @@
         50
       ],
       "tensorPath": "https://media.githubusercontent.com/media/generic-account/visualizations/main/tb-BAAI-bge-base-en-v1.5-data.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/generic-account/visualizations/main/tb-BAAI-bge-base-en-v1.5-titles.tsv"
+      "metadataPath": "https://media.githubusercontent.com/media/generic-account/visualizations/main/tb-BAAI-bge-base-en-v1.5-titles.tsv"
     }
   ]
 }
