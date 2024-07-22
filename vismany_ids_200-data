@@ -1,0 +1,15 @@
+
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://media.githubusercontent.com/media/generic-account/visualizations/main/many_ids_200-data.tsv",
+      "metadataPath": "https://media.githubusercontent.com/media/generic-account/visualizations/main/many_titles.tsv"
+    }
+  ]
+}
+
